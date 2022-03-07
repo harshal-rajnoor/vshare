@@ -10,15 +10,22 @@
 		"Other"
 	],
 	"activationEvents": [
-        "onCommand:vshare.helloWorld"
+        "onCommand:vshare.vshare",
+		"onCommand:vshare.Vsask"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [{
-            "command": "vshare.helloWorld",
-            "title": "Hello World"
+            "command": "vshare.vshare",
+            "title": "vshare"
 
-		}]
+		},
+		{
+			"command": "vshare.Vsask",
+			"title": "Vsask"
+		}
+	
+	]
 	},
 	"scripts": {
 		"lint": "eslint .",
