@@ -1,6 +1,17 @@
-# vshare README
+<style>
+    img{
+        border-radius:2px 16px;
+    }
+    </style>
+<p align="center">
+  <img src="images/vshare_1.png" width=150>
+</p>
 
-This is the README for your extension "vshare". After writing up a brief description, we recommend including the following sections.
+
+## Description
+
+Vshare is an extension developed to make file sharing effortless. The file is stored on the database which generates a link. The link can be sent to multiple users so no need to upload the file repeatedly.
+
 
 ## Features
 
@@ -49,7 +60,7 @@ Added features X, Y, and Z.
 
 -----------------------------------------------------------------------------------------------------------
 
-## Working with Markdown
+<!-- ## Working with Markdown
 
 **Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
@@ -62,4 +73,4 @@ Added features X, Y, and Z.
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
-**Enjoy!**
+**Enjoy!** -->
