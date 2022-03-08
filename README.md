@@ -1,8 +1,4 @@
-<style>
-    img{
-        border-radius:2px 16px;
-    }
-    </style>
+
 <p align="center">
   <img src="images/vshare_1.png" width=150>
 </p>
